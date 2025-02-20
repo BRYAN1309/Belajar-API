@@ -1,1 +1,2 @@
-console.log("Hello");
+let x = 34;
+console.log(x);
